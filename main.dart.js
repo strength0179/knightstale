@@ -19523,7 +19523,7 @@ break
 case 1:return A.I(q,r)}})
 return A.J($async$Uv,r)},
 mQ(a,b,c){return new A.G_(a,b,c)},
-ak_(a){return A.adi(!0,B.vE,null,!0,!1,!1,!1,!0,B.CB,B.wg,!0,!1,B.aL,!0,!0,!0,!1,!1,null,!0,!0)},
+ak_(a){return A.adi(!0,B.vE,null,!0,!1,!1,!1,!0,a.w,B.wg,!0,!1,B.aL,!0,!0,!0,!1,!1,null,!0,!0)},
 jZ:function jZ(a,b){this.a=a
 this.b=b},
 Uk:function Uk(a){this.a=a},
@@ -19539,9 +19539,11 @@ Ut:function Ut(a){this.a=a},
 G_:function G_(a,b,c){this.a=a
 this.b=b
 this.c=c},
-rN:function rN(a,b,c){this.c=a
-this.d=b
-this.a=c},
+rN:function rN(a,b,c,d){var _=this
+_.c=a
+_.d=b
+_.w=c
+_.a=d},
 ws:function ws(a,b,c,d,e,f,g){var _=this
 _.d=a
 _.e=b
@@ -62445,7 +62447,7 @@ A.jE("MapWidget build")
 s=this.a
 s=A.lV(s.d,s.c)
 $.NQ().a2U("assets/simple_map.json").be(new A.Xc(this),t.P)
-return new A.rN(new A.Xd(this),new A.ll(0,s,0,14.4746),null)}}
+return new A.rN(new A.Xd(this),new A.ll(0,s,0,14.4746),B.CB,null)}}
 A.Xc.prototype={
 $1(a){this.a.e=a},
 $S:63}
