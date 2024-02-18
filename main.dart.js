@@ -63734,7 +63734,7 @@ this.qp()},
 P(a){var s,r=this,q=null,p=A.b1(a).p3.e,o=A.b1(a).ay,n=o.k2
 o=n==null?o.c:n
 r.a.toString
-n=A.FR("Flutter Demo Home Page",q)
+n=A.FR("Knight's Tale : MapPage",q)
 s=t.af
 return new A.vi(new A.qJ(n,o,new A.KR(q,q,1/0,56),q),A.PJ(A.a2S(B.ek,A.a([r.f,A.aqx(A.a([A.FR("Your Position:",p),A.FR(r.d,p),r.w],s),B.Ct)],s),B.hi),q,q),q)}}
 A.a8x.prototype={
