@@ -69980,7 +69980,7 @@ $S:445}
 A.G2.prototype={
 S(a){return new A.vB(B.J4,"Knight's tale",A.aqZ(null,A.ayi(B.P,B.EI),!0),null)}}
 A.l9.prototype={
-Pg(){return this.c},
+Pg(){return this.c+" 1.0.16"},
 aw(){var s=null,r=A.D8(s,s,s,s,s,s,s,s),q=A.a([],t.UM)
 q.push(new A.eg(0,0))
 return new A.N1(r,new A.ts(q,s),A.lD("",s),B.n)}}
